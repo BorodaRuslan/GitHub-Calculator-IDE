@@ -6,6 +6,10 @@ public class Main {
 
         String[] name = {"Ruslan", "Jak", "Ben"};
 
+        for (String s: name){
+            System.out.println("Hello " + s);
+        }
+
 
 
 
